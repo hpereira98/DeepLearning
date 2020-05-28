@@ -1,2 +1,6 @@
 venv
 */__pycache__
+MNIST/MNIST_MLP
+*.png
+*.h5
+*.json
